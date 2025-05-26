@@ -1,0 +1,36 @@
+h1{
+    color:#474747 ;
+    font-family: "Coral Pixels", serif;
+    font-size: 60px;
+    line-height: 1.5;
+text-align: center;
+letter-spacing: 0.5cm;
+}
+
+.center {
+    background-color:#696969 ;
+}
+h2{
+    font-family: Oswald;
+    text-align: center;
+    font-size: 30px;
+
+}
+p:not(.dupa){
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.wrapper {
+    display: flex;
+}
+
+.wrapper > div {
+    flex: 1;
+}
+img{ 
+    
+    display: block; 
+    margin:100px auto;
+}
